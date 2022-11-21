@@ -56,7 +56,8 @@
       "last 1 safari version"
     ],
     "engines": {
-      "node": "19.x"
+      "node": "19.x",
+      "npm":"8.x"
     }
   }
 }
